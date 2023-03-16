@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 <!--
 - 🔭 I’m currently working on ...
 -->
-- 🌱 I’m currently learning ...Linux Administration System && Internet
-- 👯 I’m looking to collaborate on ...Linux Administration System
-- 🤔 I’m looking for help with ...Linux Administration System
+- 🌱 I’m currently learning ...Flutter
+- 👯 I’m looking to collaborate on ...Mobile Application with Flutter
+- 🤔 I’m looking for help with ...Mobile Application with Flutter
 - 💬 Ask me about ...Anything
 - 📫 How to reach me: ...ayesha.anika1@gmail.com
 - 😄 Pronouns: ...She/Her
